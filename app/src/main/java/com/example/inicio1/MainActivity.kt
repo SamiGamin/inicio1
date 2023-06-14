@@ -97,7 +97,7 @@ fun app() {
                     )
                     Text(
                         text = "sami",
-                       fontSize = 32.sp,
+                        fontSize = 32.sp,
                         color = Color.Blue,
                         //modifier = Modifier.fillMaxWidth(),
                         textAlign = TextAlign.Center
