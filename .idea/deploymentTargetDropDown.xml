@@ -6,13 +6,22 @@
         <type value="RUNNING_DEVICE_TARGET" />
         <deviceKey>
           <Key>
+<<<<<<< HEAD
             <type value="SERIAL_NUMBER" />
             <value value="192.168.1.25:5555" />
+=======
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\Casa\.android\avd\Pixel_4_API_33.avd" />
+>>>>>>> e522b25 (Initial commit)
           </Key>
         </deviceKey>
       </Target>
     </runningDeviceTargetSelectedWithDropDown>
+<<<<<<< HEAD
     <timeTargetWasSelectedWithDropDown value="2023-06-14T07:18:02.367204700Z" />
+=======
+    <timeTargetWasSelectedWithDropDown value="2023-06-14T07:25:32.861293600Z" />
+>>>>>>> e522b25 (Initial commit)
     <runningDeviceTargetsSelectedWithDialog>
       <Target>
         <type value="RUNNING_DEVICE_TARGET" />

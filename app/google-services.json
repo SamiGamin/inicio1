@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545636611036",
+    "firebase_url": "https://bliotecaipuc-default-rtdb.firebaseio.com",
+    "project_id": "bliotecaipuc",
+    "storage_bucket": "bliotecaipuc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545636611036:android:eddd7eb51a6a980ca49519",
+        "android_client_info": {
+          "package_name": "com.example.inicio1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545636611036-ngh4j53fk8mk5b4ai7coct1go07gb1jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAudypu2Q2f3msslB19ngX7zD79DRQZqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545636611036-ngh4j53fk8mk5b4ai7coct1go07gb1jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
